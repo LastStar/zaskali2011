@@ -130,7 +130,7 @@ table {
       border: 0;
     }
 
-    .site .thumb {
+    #page .poster {
       float: right;
     }
 
@@ -143,4 +143,8 @@ table {
   text-align: center;
   font-size: 240%;
   margin-bottom: 1em;
+}
+
+#page ul {
+  margin-left: 2em;
 }
